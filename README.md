@@ -28,10 +28,6 @@
 
 ###
 
-<img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-
-###
-
 <h3 align="left">👨‍💻  About Me</h3>
 
 ###
