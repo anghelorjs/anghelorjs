@@ -32,7 +32,7 @@
 
 ###
 
-<p align="left">I'm Fidelangel Rojas Condori, a 4th-year Computer Science student at Universidad Mayor de San Andrés (Bolivia).<br><br>- 🎓 Passionate about software development with practical experience in academic and professional projects.<br>- 🔭 Currently looking to grow professionally by applying my skills in real-world environments<br>- 🌱 Always learning new technologies and best practices<br>- ⚡ In my free time, I enjoy listening to music while exploring new frameworks.</p>
+<p align="left">I'm Angel Rojas, a 4th-year Computer Science student at Universidad Mayor de San Andrés (Bolivia).<br><br>- 🎓 Passionate about software development with practical experience in academic and professional projects.<br>- 🔭 Currently looking to grow professionally by applying my skills in real-world environments<br>- 🌱 Always learning new technologies and best practices<br>- ⚡ In my free time, I enjoy listening to music while exploring new frameworks.</p>
 
 ###
 
